@@ -1,6 +1,6 @@
 ## Hyebin Park
 
-<p align="center"><a href="https://aai.seoultech.ac.kr"><img width="90%" alt="Hello, I'm Hyebin Park" src="./picture/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://aai.seoultech.ac.kr"><img width="100%" alt="Hello, I'm Hyebin Park" src="./picture/gh-readme-header.png" /></a></p>
 
 <p align="center"><a href="https://aai.seoultech.ac.kr"><img width="100%" alt="bar" src="./picture/space bar.png" /></a></p>
 
