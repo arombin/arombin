@@ -6,7 +6,7 @@
 </a>
 혜빈 혜빈 박혜빈 혜빈 혜빈 박혜빈 혜빈 혜빈
 
-
+혜빈 혜빈 박혜빈 혜빈 혜빈 박혜빈 혜빈 혜빈
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=arombin)](https://solved.ac/arombin)
-
+혜빈 혜빈 박혜빈 혜빈 혜빈 박혜빈 혜빈 혜빈
 <p align="center"><a href="https://aai.seoultech.ac.kr"><img width="100%" alt="bar" src="./picture/bar2.png" /></a></p>
